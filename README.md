@@ -1,4 +1,3 @@
-# README
 ## バージョン
 * stremlit 1.11.0  
 * Python 3.10.5  
