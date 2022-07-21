@@ -7,3 +7,8 @@
 ```python
 streamlit run 'ファイル名'  
 ```
+
+## ブラウザ接続
+```
+https://kengokonishi-streamlitstart-main-5c6ay9.streamlitapp.com/
+```
